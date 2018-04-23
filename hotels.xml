@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Hotels>
+  <Hotel Stars="*****">
+    <Name>Emirates Palace</Name>
+    <Contact>
+      <Phone>97126909000</Phone>
+      <Email>reservations.emiratespalace@kempinski.com</Email>
+    </Contact>
+    <Address BusLines="12,35,245">
+      <Number>1</Number>
+      <Street>West Corniche Road</Street>
+      <City>Abu Dhabi</City>
+      <Zip>39999</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="***">
+  <Name>Mardan Palace</Name>
+  <Contact>
+    <Phone>902423104100</Phone>
+    <Email>reservations@mardanpalace.com</Email>
+  </Contact>
+  <Address>
+    <Number>450</Number>
+    <Street>Ozlu Mahallesi</Street>
+    <City>Antalya</City>
+    <Zip>07110</Zip>
+  </Address>
+  </Hotel>
+  <Hotel Stars="*****">
+  <Name>Plaza Hotel</Name>
+  <Contact>
+    <Phone>2127593000</Phone>
+    <Email>plazahotel@riu.com</Email>
+  </Contact>
+  <Address BusLines="BX35, M3">
+    <Number>768</Number>
+    <Street>5th Ave</Street>
+    <City>New York</City>
+    <Zip>10019</Zip>
+  </Address>
+  </Hotel>
+  <Hotel Stars="****">
+  <Name>Westin Excelsior</Name>
+  <Contact>
+    <Phone>390647081</Phone>
+    <Email>excelsiorrome@westin.com</Email>
+  </Contact>
+  <Address BusLines="80,105,160">
+    <Number>125</Number>
+    <Street>Via Vitorio Veneto</Street>
+    <City>Italy</City>
+    <Zip>00187</Zip>
+  </Address>
+  </Hotel>
+  <Hotel Stars="***">
+  <Name>Palms Casino Resort</Name>
+  <Contact>
+    <Phone>7029427777</Phone>
+    <Email>info@palms.com</Email>
+  </Contact>
+  <Address>
+    <Number>4321</Number>
+    <Street>W Flamingo Rd</Street>
+    <City>Las Vegas</City>
+    <Zip>89103</Zip>
+  </Address>
+  </Hotel>
+</Hotels>
+
